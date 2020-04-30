@@ -138,9 +138,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="data.cpp" />
     <ClCompile Include="factorial.cpp" />
     <ClCompile Include="hanoi_tower.cpp" />
+    <ClCompile Include="isbn.cpp" />
     <ClCompile Include="phc.cpp" />
+    <ClCompile Include="vector.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
